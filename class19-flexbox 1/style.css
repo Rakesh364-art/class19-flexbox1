@@ -1,0 +1,485 @@
+.container1
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+display: flex;
+margin: 20px;
+flex-direction:row ;
+
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;
+}
+.container2
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+margin:20px ;
+display: flex;
+flex-direction: row-reverse ;
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;
+}
+.container3
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+margin: 20px;
+display: flex;
+flex-direction: column;
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;
+}
+.container4
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+margin: 20px;
+display: flex;
+flex-direction:column-reverse ;
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;
+}
+
+.container5
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+margin: 20px;
+display: flex;
+flex-direction:row ;
+flex-wrap: wrap;
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;
+}
+
+.container6
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+margin: 20px;
+display: flex;
+flex-direction:row ;
+flex-wrap: nowrap;
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;
+}
+ .container7
+{width: 200px;
+    height: 200px;
+background-color: #0000ff;
+margin: 20px;
+display: flex;
+flex-direction:row ;
+flex-wrap: wrap-reverse;
+ 
+
+
+}
+.numbers{
+    background-color: blueviolet;
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold;}
+
+
+    .container8
+    {width: 600px;
+        height: 500px;
+    background-color: #0000ff;
+    margin: 20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: center;
+     
+    
+    
+    }
+    .numbers{
+        background-color: blueviolet;
+        width: 50px;
+        height: 40px;
+        border: 2px solid gold;}
+        
+    .container9
+    {width: 600px;
+        height: 500px;
+    background-color: #0000ff;
+    margin: 20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content: start;
+    align-items: start;
+     
+    
+    
+    }
+    .numbers{
+        background-color: blueviolet;
+        width: 50px;
+        height: 40px;
+        border: 2px solid gold;}
+     
+    .container10
+    {width: 600px;
+        height: 500px;
+    background-color: #0000ff;
+    margin: 20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: start;
+     
+    
+    
+    }
+    .numbers{
+        background-color: blueviolet;
+        width: 50px;
+        height: 40px;
+        border: 2px solid gold;}
+     
+   .container11
+    {width: 600px;
+        height: 500px;
+    background-color: #0000ff;
+    margin: 20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content: end;
+    align-items: start;
+     
+    
+    
+    }
+    .numbers{
+        background-color: blueviolet;
+        width: 50px;
+        height: 40px;
+        border: 2px solid gold;}
+
+
+        .container12
+    {width: 600px;
+        height: 500px;
+    background-color: #0000ff;
+    margin: 20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content: start;
+    align-items: center;
+     
+    
+    
+    }
+    .numbers{
+        background-color: blueviolet;
+        width: 50px;
+        height: 40px;
+        border: 2px solid gold;}
+
+
+     
+        .container13
+        {width: 600px;
+            height: 500px;
+        background-color: #0000ff;
+        margin: 20px;
+        display: flex;
+        flex-direction:row ;
+        justify-content: end;
+        align-items: center;
+         
+        
+        
+        }
+        .numbers{
+            background-color: blueviolet;
+            width: 50px;
+            height: 40px;
+            border: 2px solid gold;}
+
+
+
+
+         
+            .container14
+            {width: 600px;
+                height: 500px;
+            background-color: #0000ff;
+            margin: 20px;
+            display: flex;
+            flex-direction:row ;
+            justify-content: start;
+            align-items: end;
+             
+            
+            
+            }
+            .numbers{
+                background-color: blueviolet;
+                width: 50px;
+                height: 40px;
+                border: 2px solid gold;}
+             
+                .container15
+                {width: 600px;
+                    height: 500px;
+                background-color: #0000ff;
+                margin: 20px;
+                display: flex;
+                flex-direction:row ;
+                justify-content: center;
+                align-items: end;
+                 
+                
+                
+                }
+                .numbers{
+                    background-color: blueviolet;
+                    width: 50px;
+                    height: 40px;
+                    border: 2px solid gold;}
+
+
+
+
+
+
+                 
+                    .container16
+                    {width: 600px;
+                        height: 500px;
+                    background-color: #0000ff;
+                    margin: 20px;
+                    display: flex;
+                    flex-direction:row ;
+                    justify-content: end;
+                    align-items: end;
+                     
+                    
+                    
+                    }
+                    .numbers{
+                        background-color: blueviolet;
+                        width: 50px;
+                        height: 40px;
+                        border: 2px solid gold;}
+                     
+                        .container17
+                        {width: 600px;
+                            height: 500px;
+                        background-color: #0000ff;
+                        margin: 20px;
+                        display: flex;
+                        flex-direction:column ;
+                        justify-content: start;
+                        align-items: start;
+                         
+                        
+                        
+                        }
+                        .numbers{
+                            background-color: blueviolet;
+                            width: 50px;
+                            height: 40px;
+                            border: 2px solid gold;}
+                         
+                            .container18
+                            {width: 600px;
+                                height: 500px;
+                            background-color: #0000ff;
+                            margin: 20px;
+                            display: flex;
+                            flex-direction:column ;
+                            justify-content: start;
+                            align-items: center;
+                             
+                            
+                            
+                            }
+                            .numbers{
+                                background-color: blueviolet;
+                                width: 50px;
+                                height: 40px;
+                                border: 2px solid gold;}
+                             
+
+                               
+                                .container19
+                                {width: 600px;
+                                    height: 500px;
+                                background-color: #0000ff;
+                                margin: 20px;
+                                display: flex;
+                                flex-direction:column;
+                                justify-content: start;
+                                align-items: end;
+                                 
+                                
+                                
+                                }
+                                .numbers{
+                                    background-color: blueviolet;
+                                    width: 50px;
+                                    height: 40px;
+                                    border: 2px solid gold;}
+
+                                    .container20
+                                    {width: 600px;
+                                        height: 500px;
+                                    background-color: #0000ff;
+                                    margin: 20px;
+                                    display: flex;
+                                    flex-direction:column;
+                                    justify-content: center;
+                                    align-items: start;
+                                     
+                                    
+                                    
+                                    }
+                                    .numbers{
+                                        background-color: blueviolet;
+                                        width: 50px;
+                                        height: 40px;
+                                        border: 2px solid gold;}
+
+                                        
+                                        .container21
+                                        {width: 600px;
+                                            height: 500px;
+                                        background-color: #0000ff;
+                                        margin: 20px;
+                                        display: flex;
+                                        flex-direction:column;
+                                        justify-content: center;
+                                        align-items: center;
+                                         
+                                        
+                                        
+                                        }
+                                        .numbers{
+                                            background-color: blueviolet;
+                                            width: 50px;
+                                            height: 40px;
+                                            border: 2px solid gold;}
+
+                                            .container22
+                                        {width: 600px;
+                                            height: 500px;
+                                        background-color: #0000ff;
+                                        margin: 20px;
+                                        display: flex;
+                                        flex-direction:column;
+                                        justify-content: center;
+                                        align-items: end;
+                                         
+                                        
+                                        
+                                        }
+                                        .numbers{
+                                            background-color: blueviolet;
+                                            width: 50px;
+                                            height: 40px;
+                                            border: 2px solid gold;}
+
+                                            .container23
+                                        {width: 600px;
+                                            height: 500px;
+                                        background-color: #0000ff;
+                                        margin: 20px;
+                                        display: flex;
+                                        flex-direction:column;
+                                        justify-content: end;
+                                        align-items: start;
+                                         
+                                        
+                                        
+                                        }
+                                        .numbers{
+                                            background-color: blueviolet;
+                                            width: 50px;
+                                            height: 40px;
+                                            border: 2px solid gold;}
+
+                                            .container24
+                                        {width: 600px;
+                                            height: 500px;
+                                        background-color: #0000ff;
+                                        margin: 20px;
+                                        display: flex;
+                                        flex-direction:column;
+                                        justify-content: end;
+                                        align-items: center;
+                                         
+                                        
+                                        
+                                        }
+                                        .numbers{
+                                            background-color: blueviolet;
+                                            width: 50px;
+                                            height: 40px;
+                                            border: 2px solid gold;}
+
+
+                                            .container25
+                                        {width: 600px;
+                                            height: 500px;
+                                        background-color: #0000ff;
+                                        margin: 20px;
+                                        display: flex;
+                                        flex-direction:column;
+                                        justify-content: end;
+                                        align-items: end;
+                                         
+                                        
+                                        
+                                        }
+                                        .numbers{
+                                            background-color: blueviolet;
+                                            width: 50px;
+                                            height: 40px;
+                                            border: 2px solid gold;}
+                                                                                                                     
